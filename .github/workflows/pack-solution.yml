@@ -1,10 +1,10 @@
-name: Pack Contoso_University_Corp
+name: Pack Contoso_University_Core
 
 on:
   push:
     paths:
       - contents/**
-  workflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
