@@ -1,8 +1,8 @@
 name: Pack Contoso_University_Core
 
 on:
-  push:
-    paths:
+  push:
+    paths:
       - contents/**
   workflow_dispatch:
 
